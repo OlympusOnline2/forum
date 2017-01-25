@@ -19,7 +19,7 @@ url: http://olympusonline2.github.io/forum
 exclude: [.gitignore]
 
 # The disqus shortname for your forum
-disqus_shortname: OlympusOnline
+disqus_shortname: olympusonline2
 
 # The public key for your disqus application
 disqus_publickey: uPBzZDHnFhGA4mRTGiIJozrnJHvps36Ci6sXiYvS0dRZbFeqE7z8pYlWs0u6uYya
